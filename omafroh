@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'lib/omafroh.rb'
+
+Omafroh.load_from_flickr

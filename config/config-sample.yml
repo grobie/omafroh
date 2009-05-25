@@ -1,0 +1,6 @@
+omafroh:
+  flickr:
+    api_key:  "<your flickr api key>"
+    user:     "<name of the user to search for>"
+    tag:      "<name of the tag to search for>"
+  picture_path: "<path where to store the grabbed pictures>"

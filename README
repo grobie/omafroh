@@ -1,0 +1,13 @@
+Omafroh
+
+Installation
+------------
+1. install flick gem:
+   sudo gem install moonpxi-flickr --source=http://gems.github.com
+2. move config/config-sample.yml to config/config.yml
+3. edit the config
+
+Usage
+-----
+1. run "omafroh" in your console
+2. be happy with your gran ;)
