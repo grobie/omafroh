@@ -1,8 +1,12 @@
 Omafroh
 
+Description
+-----------
+Script to load tagged photos from flickr to present them your granny in a digital picture frame
+
 Installation
 ------------
-1. install flick gem:
+1. install flickr gem:
    sudo gem install moonpxi-flickr --source=http://gems.github.com
 2. move config/config-sample.yml to config/config.yml
 3. edit the config
